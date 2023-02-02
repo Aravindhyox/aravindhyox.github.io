@@ -1,0 +1,73 @@
+html{
+	scroll-behavior: smooth;
+	background-color: black;
+}
+
+
+.pic img {
+	display: block;
+	margin: auto;
+	height: 250px;
+	width: 250px;
+	margin-top: 75px;
+	align-items: center;
+	border-radius: 50%;
+	border:3px solid #8458D9; 
+	
+}
+
+.Name {
+	color: #ffffff;
+	font-size: 25px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.Work {
+	color: #ffffff;
+	text-align: center;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+.Aboutme h1 {
+	color: #ffffff;
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	padding-top: 30px;
+}
+
+.Aboutme {
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+.Contact h1{
+	color: #ffffff;
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+.fooder p {
+	color: #ffffff;
+	text-align: center;
+	font-size: 14px;
+	font-family: sans-serif;
+	padding-bottom: 10px;
+	text-decoration: none;
+}
+
+/*create mobile viwe opt*/
