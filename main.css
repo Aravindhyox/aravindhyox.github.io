@@ -20,7 +20,7 @@ html{
 
 .Name {
 	color: #6448c9;
-	font-size: 25px;
+	font-size: 23px;
 	text-align: center;
 	font-family: sans-serif;
 }
@@ -30,33 +30,57 @@ html{
 .Work {
 	color: #d3d3d3;
 	text-align: center;
-	font-size: 15px;
+	font-size: 12px;
 	font-family: sans-serif;
 }
 
-/** About me and my work **/
+/* projects head */
 
-.Aboutme h1 {
+.projects h1{
 	color: #6448c9;
 	text-align: center;
-	font-size: 30px;
+	font-size: 28px;
 	font-family: sans-serif;
-	padding-top: 30px;
+	padding-top: 10px;
 }
 
-.Aboutme {
-	color: #d3d3d3;
+
+/* projects list */
+
+.projects{
+	width:100%;
 	text-align: center;
 	font-size: 18px;
-	font-family: sans-serif;
 }
+  
+.procon{
+	color:#6448c9;
+}
+  
+.iconp{
+	
+	border-radius: 0%;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	padding: 10px;
+	position: relative;
+	background: transparent;
+	transition: all 0.2s ease;
+	text-decoration: none;
+	margin: 22px 8px;
+}
+
+
+
+
 
 /** Contact **/
 
 .Contact h1{
 	color: #6448c9;
 	text-align: center;
-	font-size: 30px;
+	font-size: 28px;
 	font-family: sans-serif;
 	padding-top: 10px;
 }
@@ -67,14 +91,15 @@ html{
 .Contact{
 	width:100%;
 	text-align: center;
+	font-size: 18px;
 }
   
 .social{
-	color:#6448c9;
+	color:#d3c9c9;
 }
   
 .ico{
-	border: 2px solid white;
+	border: 2px solid #6448c9;
 	border-radius: 50%;
 	display: inline-block;
 	width: 20px;
@@ -85,22 +110,13 @@ html{
 	transition: all 0.2s ease;
 	text-decoration: none;
 	margin: 22px 8px;
-  }
-
-  
-
-
-
-
-
-
+}
 
 
 /** footer **/
 .footer a {
 	display: block;
 	text-align: center;
-	align-items: center;
 	color: #a1a1a1;
 	font-size: 14px;
 	font-family: sans-serif;
