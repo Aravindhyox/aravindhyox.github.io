@@ -1,2 +1,2 @@
-# aravindhyox01.github.io
+# aravindhyox.github.io
 website 
