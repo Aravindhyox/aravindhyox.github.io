@@ -1,2 +1,2 @@
-# aravindhyox.github
+# Aravindhyox.github.io
 A portfolio website 
