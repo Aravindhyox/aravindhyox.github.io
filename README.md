@@ -1,2 +1,2 @@
-# aravindhyox.github.io
-website 
+# aravindhyox.github
+A portfolio website 
